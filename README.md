@@ -14,6 +14,12 @@
 
 ---
 
+## 📘 Learning Journey
+I have also learned **Java programming** out of personal interest and practiced it to strengthen my coding fundamentals.  
+Currently, my **main focus is on Data Science**, exploring the integration of statistics, Python, and visualization tools.  
+
+---
+
 ## **⚡ Technical Skills**  
 ### 🖥️ **Programming & Tools**  
 - **Languages:** Python 🐍 | C++ ⚡ | SQL 💾  
