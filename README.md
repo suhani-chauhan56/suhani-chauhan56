@@ -52,6 +52,14 @@ Currently, my **main focus is on Data Science**, exploring the integration of st
   
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhani-chauhan56&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ✨ *"Every day I push myself to learn, explore, and make my tech journey exciting and impactful."* 🚀  
 
 
