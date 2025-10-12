@@ -1,58 +1,64 @@
-# 🌟 Hi, I’m Suhani Chauhan! 👋  
+<!-- 🌟 Animated & Stylish GitHub Profile for Suhani Chauhan -->
 
-🎓 **3rd Year B.Tech CSE Student** | 💻 Aspiring **Data Scientist** | 🚀 Lifelong Learner  
+<h1 >
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/woman-technologist_1f469-200d-1f4bb.png" width="40"/>  
+  Hi, I’m <span style="color:#00b4d8;">Suhani Chauhan!</span> 👋  
+</h1>
 
----
-
-## **🔹 About Me**  
-- 👩‍💻 Passionate about **Data Science & Analytics**  
-- 🔍 Interested in exploring **Data, AI, and Business Intelligence**  
-- 🎯 Actively looking for an **Internship or Entry-level role** in Data Science / Analytics  
-- 🏆 Strong believer in **continuous learning & self-improvement**  
-- 🌱 Currently learning **Advanced Data Science & Visualization Tools**  
-- 🌍 Open to collaborations and exciting opportunities to grow 🚀  
+<h3 >
+🎓 3rd Year B.Tech CSE Student | 💻 Aspiring Data Scientist | 🚀 Lifelong Learner
+</h3>
 
 ---
 
-## 📘 Learning Journey
-I have also learned **Java programming** out of personal interest and practiced it to strengthen my coding fundamentals.  
-Currently, my **main focus is on Data Science**, exploring the integration of statistics, Python, and visualization tools.  
+### 🌈 About Me  
+💻 Passionate about **Data Science & Analytics**  
+🔍 Exploring **Data, AI, and Business Intelligence**  
+🎯 Looking for **Internship / Entry-level roles** in Data Science & Analytics  
+🏆 Strong believer in **continuous learning & self-growth**  
+🌱 Currently learning **Advanced Data Science & Visualization Tools**  
+🌍 Open to collaborations and exciting opportunities to grow 🚀  
 
 ---
 
-## **⚡ Technical Skills**  
-### 🖥️ **Programming & Tools**  
+### 🧠 Learning Journey  
+I’ve learned **Java programming** to strengthen my problem-solving foundation.  
+Currently focused on **Data Science**, integrating **Statistics, Python, and Visualization tools** for real-world insights.  
+
+---
+
+## ⚡ Technical Skills  
+
+### 💻 Programming & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,vscode,github,excel" />
+</p>
+
 - **Languages:** Python 🐍 | C++ ⚡ | SQL 💾  
 - **Libraries:** NumPy | Pandas | Matplotlib | Seaborn  
-- **Data Skills:** Exploratory Data Analysis (EDA) | Data Cleaning | Data Visualization  
+- **Data Skills:** EDA | Data Cleaning | Data Visualization  
 - **Tools:** Excel 📊 | Power BI 📈  
 
 ---
 
-## **🤝 Soft Skills**  
-- 👩‍💼 **Team Leadership & Teamwork**  
-- 🗣️ **Effective Communication**  
-- 📚 **Continuous Learner**  
-- 💡 **Problem-Solving & Analytical Thinking**  
+### 🤝 Soft Skills  
+🌟 Team Leadership & Teamwork  
+🗣️ Effective Communication  
+📚 Continuous Learning  
+💡 Problem-Solving & Analytical Thinking  
 
 ---
 
-## **📬 Connect With Me**  
-- 📧 Email: **[suhanii2503.chauhan@gmail.com](mailto:suhanii2503.chauhan@gmail.com)**  
-- 💼 LinkedIn: [**Suhani Chauhan**](https://www.linkedin.com/in/suhani-chauhan-39055832a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+## 🚀 Goals & Aspirations  
 
+🎯 Apply my skills in real-world **Data Science & Analytics** projects  
+📊 Derive **meaningful insights** from complex data  
+🧠 Keep learning **Machine Learning & AI concepts**  
+🌍 Contribute to impactful open-source and research projects  
 
 ---
 
-## **🚀 Goals & Aspirations**  
-- 🔎 Seeking **internships & opportunities** to apply my skills professionally  
-- 📊 Want to **analyze real-world data** and derive insights  
-- 🏗️ Build impactful **Data Science & Machine Learning projects**  
-- 🎓 Keep upgrading myself to stay relevant in the tech industry
-  
----
-
-## 🏆 Achievements
+## 🏆 Achievements  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suhani-chauhan56&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -60,20 +66,33 @@ Currently, my **main focus is on Data Science**, exploring the integration of st
 
 ---
 
+## 📬 Connect With Me  
+<p align="center">
+  <a href="mailto:suhanii2503.chauhan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/suhani-chauhan-39055832a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/suhani-chauhan56">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhani-chauhan56&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhani-chauhan56&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-chauhan56&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ✨ *"Every day I push myself to learn, explore, and make my tech journey exciting and impactful."* 🚀  
 
-
-<!--
-**suhani-chauhan56/suhani-chauhan56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
