@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,vscode,github,anaconda,powerbi,excel" />
 </p>
 
-**Languages:** 🐍 Python | ⚡ C++ | 💾 SQL  | Java 
+**Languages:** 🐍 Python | ⚡ C++ | 💾 SQL  | Java   
 **Libraries:** 📚 NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn  
 **Tools:** 🧰 Power BI | Excel | Jupyter | Git | VS Code  
 
