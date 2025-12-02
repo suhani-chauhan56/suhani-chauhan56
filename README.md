@@ -32,7 +32,7 @@
 
 **Languages:** 🐍 Python | ⚡ C++ | 💾 SQL  | Java   
 **Libraries:** 📚 NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn  
-**Tools:** 🧰 Power BI | Excel | Jupyter | Git | VS Code  
+**Tools:** 🧰 Power BI | Excel | Jupyter | Git | VS Code | Intelij
 
 ---
 
