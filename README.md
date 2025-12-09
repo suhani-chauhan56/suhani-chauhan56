@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-💻 Data Science | 🧠 Machine Learning | 📊 AI & Analytics
+💻 Data Science | 🧠 Machine Learning | 📊 AI & Analytics 
 </h3>
 
 <p align="center">
