@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me  
 
-🌟 Hi there! I’m **Suhani Chauhan**, a passionate **Computer Science Engineer** specializing in **Data Science and AI**.  
+🌟 Hi there! I'm **Suhani Chauhan**, a passionate **Computer Science Engineer** specializing in **Data Science and AI**.  
 💡 I love uncovering insights from data, visualizing patterns, and solving real-world problems using technology.  
 🎯 Currently exploring **Machine Learning, Power BI, and Advanced Data Visualization**.  
 🌱 I believe in **lifelong learning**, creativity, and collaboration to drive innovation.  
@@ -57,7 +57,7 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhani-chauhan56&theme=algolia&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=suhani-chauhan56&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -67,14 +67,14 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=suhani-chauhan56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=suhani-chauhan56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
     height="165"
     alt="GitHub Stats"
   />
 
-  <!-- Fixed GitHub Streak (verified mirror link) -->
+  <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats-seven-azure.vercel.app?user=suhani-chauhan56&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=suhani-chauhan56&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Streak"
   />
@@ -83,7 +83,7 @@
 <!-- Top Languages -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-chauhan56&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-chauhan56&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
