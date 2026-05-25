@@ -175,27 +175,7 @@ Git | GitHub | Jupyter Notebook | VS Code
 
 <div align="center">
 
-## 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=✨+Data+Drives+Innovation+✨;💡+Learn+•+Build+•+Inspire+💡;🚀+Creating+Impact+Through+Technology+🚀" />
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=suhani-chauhan56&label=Profile%20Views&color=A855F7&style=for-the-badge" />
 
 </div>
 
