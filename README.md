@@ -153,9 +153,8 @@ Git | GitHub | Jupyter Notebook | VS Code
 
 ---
 
-# 🌟 Achievements
+# 🌟 Contributions
 
-🏆 Solved **140+ coding problems** on LeetCode, HackerRank & Coding Ninjas  
 🚀 Active contributor to GitHub and developer communities  
 💡 Participated in hackathons and collaborative tech learning  
 
