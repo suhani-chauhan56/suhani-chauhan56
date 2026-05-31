@@ -143,11 +143,11 @@ Git | GitHub | Jupyter Notebook | VS Code
 
 | 🏅 Certification / Achievement | 🏢 Issuer | ✅ Status |
 |---|---|---|
-| 🥇 Oracle Analytics Cloud 2026 | Oracle | Professional (Highest Level) |
+| 🥇 Oracle Analytics Cloud 2025 | Oracle | Professional (Highest Level) |
 | 📊 Microsoft Power BI Certification | Skill Nation | Certified |
 | 📈 Data Analytics Simulation | Deloitte | Completed |
-| 💻 160+ DSA Problems | LeetCode & HackerRank | Ongoing 🔥 |
-| 🎓 B.Tech CGPA 8.74 | Quantum University | Ongoing |
+| 💻 170+ DSA Problems | LeetCode & HackerRank | Ongoing 🔥 |
+| 🎓 B.Tech CGPA 8.5 | Quantum University | Ongoing |
 
 </div>
 
