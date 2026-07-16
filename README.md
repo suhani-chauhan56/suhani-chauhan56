@@ -9,7 +9,7 @@ Professional • Clean • Modern
 
 # 👋 Hi, I'm Suhani Chauhan
 
-### 💻 Data Science Enthusiast • 🤖 Machine Learning Explorer • 📊 Data Analyst
+### Data Analyst • Business Intelligence • Machine Learning • SQL • Power BI
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights+📈;Machine+Learning+%26+AI+Enthusiast+🤖;Building+Projects+That+Matter+🚀;Passionate+About+Analytics+💡" />
 
@@ -17,14 +17,21 @@ Professional • Clean • Modern
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 Professional Summary
 
-🎓 B.Tech CSE (Data Science) Student at **Quantum University, Roorkee**  
-📊 Passionate about **Data Analytics, Machine Learning & Business Intelligence**  
-🧠 Skilled in transforming raw data into actionable insights  
-🌱 Currently exploring **Advanced Machine Learning, NLP & Power BI**  
-💡 Love solving real-world problems through technology and analytics  
-⚡ Always learning, building, and growing in the AI space  
+I am a Data Analyst and Data Science student passionate about solving business problems using data.
+
+My interests include:
+
+- Business Intelligence
+- Customer Analytics
+- Predictive Analytics
+- Machine Learning
+- Data Visualization
+- SQL Analytics
+- Dashboard Development
+
+I enjoy building end-to-end analytics solutions—from ETL and exploratory analysis to predictive modeling and interactive dashboards—that support data-driven decision making.
 
 ---
 
@@ -48,63 +55,120 @@ Professional • Clean • Modern
 # 📌 Core Skills
 
 ```yaml
-💻 Languages:
-Python | Java | C++ | SQL | HTML
+Languages
+Python • SQL • Java • C++
 
-🤖 Machine Learning & AI:
-Machine Learning | NLP | Classification | Regression
+Analytics
+Pandas • NumPy • Statistics • EDA
 
-📊 Data Analytics:
-EDA | Statistical Modelling | Feature Engineering
+Visualization
+Power BI • Excel • Matplotlib • Seaborn
 
-📈 BI Tools:
-Power BI | Microsoft Excel
+Machine Learning
+Scikit-learn • Classification • Regression • Clustering
 
-📚 Libraries:
-Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+Database
+MySQL
 
-🧰 Tools:
-Git | GitHub | Jupyter Notebook | VS Code
+Tools
+Git • GitHub • Jupyter • VS Code
 ```
 
----
+# 🚀 Featured Analytics Portfolio
 
-# 💼 Experience
+<table>
+<tr>
 
-## ☕ Java Stack Technology Intern — Infosys Springboard 6.0
-📅 Nov 2025 – Jan 2026  
+<td width="50%">
 
-✅ Developed backend applications using Java & Spring Boot  
-✅ Worked with REST APIs and enterprise-level architecture  
-✅ Collaborated in Agile/Scrum workflows  
-✅ Followed clean coding & OOP best practices  
+### 🧠 Customer 360 Intelligence Platform
+Enterprise-grade customer analytics platform integrating e-commerce, reviews, and behavioral data.
 
----
+**Highlights**
 
-# 🚀 Featured Projects
+✔ Customer Lifetime Value
 
-## 🗳️ Election Sentiment Analysis using Machine Learning
+✔ Churn Prediction
 
-🔹 Built an NLP-based sentiment classification system on **690K+ election tweets**  
-🔹 Used **TF-IDF, Logistic Regression, SVM & Naive Bayes**  
-🔹 Performed preprocessing, EDA & model evaluation  
-🔹 Improved prediction performance using advanced classifiers  
+✔ Customer Segmentation
 
-### ⚙️ Tech Used
-`Python` `NLP` `Scikit-learn` `TF-IDF` `Machine Learning`
+✔ RFM Analytics
 
----
+✔ Executive Dashboard
 
-## 🚖 Uber & Lyft Ride Data Analysis
+**Tech**
 
-🔹 Analyzed **690K+ ride records** from the Boston rideshare market  
-🔹 Explored demand patterns and surge pricing trends  
-🔹 Compared Uber & Lyft pricing strategies  
-🔹 Built analytical visualizations for business insights  
+Python • SQL • Power BI • Scikit-learn • Streamlit
 
-### ⚙️ Tech Used
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+</td>
 
+<td width="50%">
+
+### 💰 AI Revenue Leakage Detection
+
+Detect hidden revenue losses using anomaly detection and business intelligence.
+
+**Highlights**
+
+✔ Revenue Leakage Detection
+
+✔ Fraud Indicators
+
+✔ Risk Scoring
+
+✔ Executive KPIs
+
+✔ Automated Alerts
+
+**Tech**
+
+Python • SQL • ML • Power BI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🎓 Campus Placement Intelligence
+
+Analytics platform for employability prediction and placement insights.
+
+✔ Placement Prediction
+
+✔ Skill Gap Analysis
+
+✔ Student Segmentation
+
+✔ HR Analytics
+
+✔ KPI Dashboard
+
+</td>
+
+<td>
+
+### 🚖 Ride Pricing Analytics
+
+Business intelligence platform analyzing Uber & Lyft pricing and demand.
+
+✔ Demand Forecasting
+
+✔ Surge Analysis
+
+✔ Weather Impact
+
+✔ Peak Hour Detection
+
+✔ Business Insights
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 # 📊 GitHub Analytics
