@@ -72,29 +72,6 @@ I enjoy building end-to-end analytics solutions—from ETL and exploratory analy
 
 <td width="50%">
 
-### 🧠 Customer 360 Intelligence Platform
-Enterprise-grade customer analytics platform integrating e-commerce, reviews, and behavioral data.
-
-**Highlights**
-
-✔ Customer Lifetime Value
-
-✔ Churn Prediction
-
-✔ Customer Segmentation
-
-✔ RFM Analytics
-
-✔ Executive Dashboard
-
-**Tech**
-
-Python • SQL • Power BI • Scikit-learn • Streamlit
-
-</td>
-
-<td width="50%">
-
 ### 💰 AI Revenue Leakage Detection
 
 Detect hidden revenue losses using anomaly detection and business intelligence.
@@ -138,25 +115,6 @@ Analytics platform for employability prediction and placement insights.
 ✔ KPI Dashboard
 
 </td>
-
-<td>
-
-### 🚖 Ride Pricing Analytics
-
-Business intelligence platform analyzing Uber & Lyft pricing and demand.
-
-✔ Demand Forecasting
-
-✔ Surge Analysis
-
-✔ Weather Impact
-
-✔ Peak Hour Detection
-
-✔ Business Insights
-
-</td>
-
 </tr>
 
 </table>
