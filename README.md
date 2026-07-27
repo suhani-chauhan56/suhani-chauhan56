@@ -2,7 +2,7 @@
 
 > 🚨 I'm looking for a **Data Analyst / Data Scientist** opportunity.
 
-# Hi there,👋
+# Hi there👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=suhani-chauhan56&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/suhani-chauhan56?label=Followers&style=social)
